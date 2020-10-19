@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1082b153-f588-40bc-b15a-5583e75aa2b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CountdownText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TapController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parallaxer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HighScore.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GameMamager.cs" />
+        <option value="$PROJECT_DIR$/CountdownText.cs" />
+        <option value="$PROJECT_DIR$/GameManager.cs" />
+        <option value="$PROJECT_DIR$/ScoreText.cs" />
+        <option value="$PROJECT_DIR$/Parallaxer.cs" />
+        <option value="$PROJECT_DIR$/HighScore.cs" />
+        <option value="$PROJECT_DIR$/TapController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1isM0FaO3TGdnDqVMGdcThNxlp0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1082b153-f588-40bc-b15a-5583e75aa2b8" name="Default Changelist" comment="" />
+      <created>1602691625791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602691625791</updated>
+      <workItem from="1602691639098" duration="4419000" />
+      <workItem from="1602749020899" duration="4938000" />
+      <workItem from="1602836664005" duration="348000" />
+      <workItem from="1602837042668" duration="9334000" />
+      <workItem from="1602933525724" duration="624000" />
+      <workItem from="1602934175200" duration="11933000" />
+      <workItem from="1603032708112" duration="2276000" />
+      <workItem from="1603092827367" duration="2148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="922" y="165" key="SettingsEditor" timestamp="1602839721047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602839721047" />
+  </component>
+</project>
